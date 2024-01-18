@@ -1,0 +1,8 @@
+BINARIO = 'Binario'
+NO_BINARIO = 'No Binario'
+BIGENERO = 'Bigenero'
+CISGENERO = 'Cisgenero'
+PANGENERO = 'Pangenero'
+TRANSGENERO = 'Transgenero'
+
+generos = [BINARIO,NO_BINARIO,BIGENERO,CISGENERO,PANGENERO,TRANSGENERO]

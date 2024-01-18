@@ -1,0 +1,114 @@
+[
+    {
+        "nombre": "p1",
+        "espacios": 4,
+        "ruta": "p1.png",
+        "lugares": {
+            "A": {
+                "nombre": "Centro",
+                "posicion": "0, 0",
+                "ancho": 400,
+                "alto": 300
+            },
+            "B": {
+                "nombre": "Inferior Izquierdo",
+                "posicion": "0, 300",
+                "ancho": 130,
+                "alto": 100
+            },
+            "C": {
+                "nombre": "Inferior Centro",
+                "posicion": "130, 300",
+                "ancho": 140,
+                "alto": 100
+            },
+            "D": {
+                "nombre": "Inferior Derecho",
+                "posicion": "270, 300",
+                "ancho": 130,
+                "alto": 100
+            }
+        }
+    },
+    {
+        "nombre": "p2",
+        "espacios": 3,
+        "ruta": "p2.png",
+        "lugares": {
+            "A": {
+                "nombre": "Columna Izquierda",
+                "posicion": "0, 0",
+                "ancho": 130,
+                "alto": 400
+            },
+            "B": {
+                "nombre": "Columna Centro",
+                "posicion": "130, 0",
+                "ancho": 140,
+                "alto": 400
+            },
+            "C": {
+                "nombre": "Columna Derecha",
+                "posicion": "270, 0",
+                "ancho": 130,
+                "alto": 400
+            }
+        }
+    },
+    {
+        "nombre": "p3",
+        "espacios": 3,
+        "ruta": "p3.png",
+        "lugares": {
+            "A": {
+                "nombre": "Columna Izquierda",
+                "posicion": "0, 0",
+                "ancho": 200,
+                "alto": 400
+            },
+            "B": {
+                "nombre": "Superior Derecho",
+                "posicion": "200, 0",
+                "ancho": 200,
+                "alto": 200
+            },
+            "C": {
+                "nombre": "Inferior Derecho",
+                "posicion": "200, 200",
+                "ancho": 200,
+                "alto": 200
+            }
+        }
+    },
+    {
+        "nombre": "p4",
+        "espacios": 4,
+        "ruta": "p4.png",
+        "lugares": {
+            "A": {
+                "nombre": "Superior Izquierdo",
+                "posicion": "0, 0",
+                "ancho": 200,
+                "alto": 200
+            },
+            "B": {
+                "nombre": "Superior Derecho",
+                "posicion": "200, 0",
+                "ancho": 200,
+                "alto": 200
+            },
+            "C": {
+                "nombre": "Inferior Izquierdo",
+                "posicion": "0, 200",
+                "ancho": 200,
+                "alto": 200
+            },
+            "D": {
+                "nombre": "Inferior Derecho",
+                "posicion": "200, 200",
+                "ancho": 200,
+                "alto": 200
+            }
+        }
+    }
+]

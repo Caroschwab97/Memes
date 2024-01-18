@@ -1,0 +1,37 @@
+[
+    {
+        "nick": "rocky",
+        "nombre": "Juan",
+        "edad": "40",
+        "genero": "Binario",
+        "avatar": "UNLPImage/imagenes/img_sistema/image-rocky.png"
+    },
+    {
+        "nick": "neko",
+        "nombre": "Marianella",
+        "edad": "22",
+        "genero": "Binario",
+        "avatar": "UNLPImage/imagenes/img_sistema/image-neko.png"
+    },
+    {
+        "nick": "abril",
+        "nombre": "Abril Medina",
+        "edad": "23",
+        "genero": "No Binario",
+        "avatar": "UNLPImage/imagenes/img_sistema/image-abril.png"
+    },
+    {
+        "nick": "maxi",
+        "nombre": "Maximo Cosetti",
+        "edad": "29",
+        "genero": "Binario",
+        "avatar": "UNLPImage/imagenes/img_sistema/image-maxi.png"
+    },
+    {
+        "nick": "girazol",
+        "nombre": "Valentina",
+        "edad": "40",
+        "genero": "Bigenero",
+        "avatar": "UNLPImage/imagenes/img_sistema/image-girazol.png"
+    }
+]

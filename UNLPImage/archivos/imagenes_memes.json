@@ -1,0 +1,92 @@
+[
+    {
+        "image": "meme1.png",
+        "cant_boxes": 1,
+        "text_boxes": [
+            {
+                "top_left_x": 100,
+                "top_left_y": 40,
+                "bottom_right_x": 555,
+                "bottom_right_y": 180
+            }
+        ]
+    },
+    {
+        "image": "meme2.png",
+        "cant_boxes": 2,
+        "text_boxes": [
+            {
+                "top_left_x": 60,
+                "top_left_y": 17,
+                "bottom_right_x": 469,
+                "bottom_right_y": 191
+            },
+            {
+                "top_left_x": 60,
+                "top_left_y": 240,
+                "bottom_right_x": 477,
+                "bottom_right_y": 451
+            }
+        ]
+    },
+    {
+        "image": "meme3.png",
+        "cant_boxes": 3,
+        "text_boxes": [
+            {
+                "top_left_x": 52,
+                "top_left_y": 102,
+                "bottom_right_x": 189,
+                "bottom_right_y": 123
+            },
+            {
+                "top_left_x": 244,
+                "top_left_y": 75,
+                "bottom_right_x": 350,
+                "bottom_right_y": 97
+            },
+            {
+                "top_left_x": 220,
+                "top_left_y": 399,
+                "bottom_right_x": 433,
+                "bottom_right_y": 479
+            }
+        ]
+    },
+    {
+        "image": "meme4.png",
+        "cant_boxes": 2,
+        "text_boxes": [
+            {
+                "top_left_x": 20,
+                "top_left_y": 360,
+                "bottom_right_x": 255,
+                "bottom_right_y": 408
+            },
+            {
+                "top_left_x": 380,
+                "top_left_y": 360,
+                "bottom_right_x": 589,
+                "bottom_right_y": 392
+            }
+        ]
+    },
+    {
+        "image": "meme5.png",
+        "cant_boxes": 2,
+        "text_boxes": [
+            {
+                "top_left_x": 20,
+                "top_left_y": 40,
+                "bottom_right_x": 240,
+                "bottom_right_y": 200
+            },
+            {
+                "top_left_x": 260,
+                "top_left_y": 40,
+                "bottom_right_x": 480,
+                "bottom_right_y": 200
+            }
+        ]
+    }
+]
